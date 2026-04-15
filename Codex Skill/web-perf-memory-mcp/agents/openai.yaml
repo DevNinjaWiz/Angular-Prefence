@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web Perf Memory MCP"
+  short_description: "Profile browser perf and detect memory leaks."
+  default_prompt: "Use $web-perf-memory-mcp to run a performance trace and memory leak test on the current page."
+
+policy:
+  allow_implicit_invocation: false

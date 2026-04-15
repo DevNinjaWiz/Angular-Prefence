@@ -1,0 +1,7 @@
+interface:
+  display_name: "Git Branching SOP"
+  short_description: "Manual-only guide for Git branching SOP"
+  default_prompt: "Use $git-branching-sop to recommend the correct branch name and PR route based on our SOP."
+
+policy:
+  allow_implicit_invocation: false

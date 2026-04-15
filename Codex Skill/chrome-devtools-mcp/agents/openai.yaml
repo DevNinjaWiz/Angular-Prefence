@@ -1,0 +1,7 @@
+interface:
+  display_name: "Chrome DevTools MCP"
+  short_description: "Manual DevTools MCP launcher and TC flow"
+  default_prompt: "Use $chrome-devtools-mcp to open a Chrome DevTools MCP browser session or run the customer tc flow."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Consult"
+  short_description: "Read-only project insight assistant"
+  default_prompt: "Use $project-consult to analyze this codebase and answer my question without modifying any files."
+
+policy:
+  allow_implicit_invocation: false

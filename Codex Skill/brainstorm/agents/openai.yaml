@@ -1,0 +1,7 @@
+interface:
+  display_name: "Brainstorm"
+  short_description: "Detailed read-only brainstorming mode"
+  default_prompt: "Use $brainstorm to inspect this project in detail, brainstorm options, and ask clarifying questions before making any edits."
+
+policy:
+  allow_implicit_invocation: false
